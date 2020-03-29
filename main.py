@@ -1,6 +1,8 @@
 import pygame as pg
 from collections import OrderedDict
 
+# Created by: | STEPHEN |
+
 def add_avatar_tracks(objects):
     a_coords,a_image = objects['avatar']
     bg_coords,bg_image = objects['bg']
